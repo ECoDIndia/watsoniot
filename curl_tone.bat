@@ -1,0 +1,1 @@
+curl -v -X POST -u ce103be0-a5ef-443c-9285-ac10b1fdcfe3:P3Lx7mXlyjuU -H "Content-Type: application/json" -d "{\"text\": \"Thank you for yur kind response but I am not happy with your product\"}"  https://gateway.watsonplatform.net/tone-analyzer/api/v3/tone?version=2016-05-19"
